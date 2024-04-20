@@ -18,8 +18,6 @@ import {
   directlink,
   lcm,
   cityofsyracuse,
-  jobit,
-  tripguide,
   angular,
   aws,
   python,
