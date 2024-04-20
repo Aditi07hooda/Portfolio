@@ -20,7 +20,7 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
-import elixir from "./tech/elixir.png";
+
 import angular from "./tech/angular.png";
 import aws from "./tech/aws.png";
 import python from "./tech/python.png";
@@ -51,8 +51,6 @@ import aai from "../assets/aai.png";
 import cmrit from "../assets/cmrit.png";
 import emertxe from "../assets/emertxe.png";
 export {
-  todoangular,
-  todoreact,
   directlink,
   tmobile,
   lcm,
